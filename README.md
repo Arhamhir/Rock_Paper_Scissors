@@ -1,3 +1,3 @@
-# Rock_Paper_Scissors
-A simple GUI Rock Paper Scissors game in java
-I used JOptionPane (Dialog boxes) to make a really simple game. Hope you enjoy!
+# MINIGAMES
+Simple GUI Minigames in java
+I used JOptionPane (Dialog boxes) to make really simple games. Hope you enjoy!
